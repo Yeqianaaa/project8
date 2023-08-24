@@ -124,6 +124,9 @@ img{
 .flex-basis .flex-item{
     flex-basis: 100%; 
 }
+.flex-basis-four .flex-item{
+    flex-basis: 25%; 
+}
 
 .flex-item a{
     display: flex;
